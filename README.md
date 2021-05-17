@@ -267,7 +267,7 @@ if __name__ == '__main__':
 
 You can cite all released software versions by using the <b>DOI 10.5281/zenodo.1219522</b>. This DOI represents all versions, and will always resolve to the latest one.<br>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1219522.svg)](https://doi.org/10.5281/zenodo.1219522)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4767301.svg)](https://doi.org/10.5281/zenodo.4767301)
 
 ## ``v1.x``
 <b>pyRemoteDDRS4PALS v1.0 (minimum required version DDRS4PALS v1.17)</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4767302.svg)](https://doi.org/10.5281/zenodo.4767302)<br>
