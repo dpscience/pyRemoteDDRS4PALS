@@ -56,12 +56,12 @@ rcddrs4pals.closeRemoteSession(my_socket=my_session)
 
 * initiates a remote session
 ```python
-startSession(host,port) : returns: socket
+startRemoteSession(host,port) : returns: socket
 ```
 
 * closes a remote session
 ```python
-closeSession(my_socket) : returns: void
+closeRemoteSession(my_socket) : returns: void
 ```
 
 * performs a handshake between the 'pyRemoteDDRS4PALS' module (client) and DDRS4PALS (server) versions
