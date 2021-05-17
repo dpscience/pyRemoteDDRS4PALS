@@ -270,7 +270,7 @@ You can cite all released software versions by using the <b>DOI 10.5281/zenodo.1
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1219522.svg)](https://doi.org/10.5281/zenodo.1219522)
 
 ## ``v1.x``
-<b>pyRemoteDDRS4PALS v1.0 (minimum required version DDRS4PALS v1.17)</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4630108.svg)](https://doi.org/10.5281/zenodo.4630108)<br>
+<b>pyRemoteDDRS4PALS v1.0 (minimum required version DDRS4PALS v1.17)</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4767302.svg)](https://doi.org/10.5281/zenodo.4767302)<br>
  
  # License of pyRemoteDDRS4PALS (GNU General Public License) 
  Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de) All rights reserved.<br>
