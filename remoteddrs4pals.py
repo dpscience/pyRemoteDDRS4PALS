@@ -9,7 +9,7 @@ Created on Fri May 14 10:59:33 2021
 
 #*************************************************************************************************
 #**")
-#** Copyright (c) 2021 Danny Petschke. All rights reserved.
+#** Copyright (c) 2021 Dr. Danny Petschke. All rights reserved.
 #**")
 #** This program is free software: you can redistribute it and/or modify
 #** it under the terms of the GNU General Public License as published by
@@ -36,7 +36,7 @@ __requiredDDRS4PALS_version_minor = 17
 def __information__():
     print("#******************* pyRemoteDDRS4PALS 1.0 (17.05.2021) *******************")
     print("#**")
-    print("#** Copyright (C) 2021 Danny Petschke")
+    print("#** Copyright (C) 2021 Dr. Danny Petschke")
     print("#**")
     print("#** Contact: danny.petschke@uni-wuerzburg.de")
     print("#**")
