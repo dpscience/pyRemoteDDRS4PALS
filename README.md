@@ -16,6 +16,10 @@ Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de) All rights r
 
 <b>pyRemoteDDRS4PALS</b> - A python module providing remote control of DDRS4PALS software enabling its full integration into any measurement environment. <br>
 
+### ``remote control of DDRS4PALS via Python-API (pyRemoteDDRS4PALS)``
+<br>![DDRS4PALS-rc](/images/rc.png)
+<br>![DDRS4PALS-rc-py](/images/pyRemote.png)
+
 # Quickstart Guide
 
 * import the 'pyRemoteDDRS4PALS' module
